@@ -1,0 +1,17 @@
+Imtihon savollari (game_club bazasi bo'yicha):
+
+1. Toifasi (type) vip bo'lgan va balansi 3000 dan yuqori bo'lgan mijozlarni toping.
+2. Yoshi 25 dan katta bolgan mijozlarni toping.
+3. Telefon raqami 15 soni bilan tugagan mijozlarning ro'yxatini chiqaring.
+4. Ishlagan vaqti 1 soatdan oshiq va ekonom toifadagi kompyuterda ishlagan mijozlarni ro'yxatini chiqaring.
+5. Oyning birinchi 5 kunida yaratilgan buyurtmalarning ro'yxatini chiqaring.
+6. To'lov turin naqd (cash) bo'lgan hamda summasi 10,000 so'mdan ko'p bo'lgan buyurtmalar sonini aniqlang. 
+7. Davomiyligi (duration) 1 soatdan ko'p bo'lgan buyurtmalarning umumiy soni va o'rtacha summasini aniqlang.
+9. Buyurtmalarning to'lov turi bo'yicha guruhlang hamda har bir to'lov turi bo'yicha sonini aniqlang.
+10. Pro klasidagi kompyuterdan foydalangan mijozlar ismi va telefon raqami ro'yxatini chiqaring.
+11. So'nggi bir oy davomida summasi bo'yicha eng ko'p buyurtma qilgan mijozlarning ro'yxatini chiqaring.
+12. Buyurtma vaqti hali yakunlanmagan (finished_at = null) buyurtmalar ro'yxatini chiqaring.
+13. Buyurtmalarining umumiy summasi 10,000 so'mdan kam bo'lgan barcha mijozlar ro'yxatini chiqaring. 
+14. Disk xajmi 500 GB dan yuqori bo'lgan barcha kompyuterlar royxatini chiqaring.
+15. Kompyuterlarning turi (pro, ekonom, normal) bo'yicha guruhlang hamda har bir turining sonini aniqlang.
+

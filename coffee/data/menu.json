@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Americano",
+        "type": "tea",
+        "hot_price": "12",
+        "iced_price": "14",
+        "blended_price": "18"
+    },
+    {
+        "name": "Capuccino",
+        "type": "coffe",
+        "hot_price": "23",
+        "iced_price": "34",
+        "blended_price": "56"
+    },
+    {
+        "name": "Fresh Latte",
+        "type": "tea",
+        "hot_price": "55",
+        "iced_price": "55",
+        "blended_price": "65"
+    },
+    {
+        "name": "ice Latte",
+        "type": "coffe",
+        "hot_price": "2",
+        "iced_price": "3",
+        "blended_price": "1"
+    }
+]

@@ -1,0 +1,143 @@
+body {
+    background-color: #3A4A59;
+    color: #807a76;
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 48px;
+    padding: 16px 0;
+}
+
+h2 {
+    font-size: 38px;
+    padding: 12px 0;
+    color: #966B38;
+}
+
+h4 {
+    font-size: 24px;
+    padding: 8px 0;
+}
+
+.header h1 {
+    text-align: center;
+    color: #fff;
+    margin: 10px 0;
+}
+
+.container {
+    max-width: 720px;
+    margin: 0 auto;
+
+}
+
+.banner img {
+    width: 100%;
+    height: auto;
+}
+
+.content h2 {
+    text-align: center;
+    margin-bottom: 16px;
+    margin-top: 16px;
+}
+
+.content {
+    background-color: #fff;
+    padding: 16px;
+}
+
+table {
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+table th {
+    text-align: center;
+    padding: 12px 8px;
+    background-color: rgba(229, 232, 237, 0.8);
+}
+
+table td {
+    padding: 12px 8px;
+    text-align: center;
+}
+
+/**
+bu tr ni ichidagi td lardan birinchisini tanlab olish
+ */
+table tr td:first-child {
+    text-align: left;
+}
+
+table tr:nth-child(even) td {
+    background-color: rgba(229, 232, 237, 0.8);
+}
+
+.gallery {
+    margin: 0 -8px;
+    text-align: center;
+}
+
+.gallery .item {
+    width: 33.33333%;
+    display: inline-block;
+    float: left;
+}
+
+.img-wrapper {
+    padding: 8px;
+}
+
+.img-wrapper img {
+    width: 100%;
+    transition: all 0.200s linear;
+}
+
+.gallery .item:hover img{
+    transform: scale(1.05);
+}
+.clear {
+    clear: both;
+}
+
+hr {
+    width: 60%;
+    margin: 64px auto 32px auto;
+    border: 1px solid #CBCBCB;
+}
+
+.text p {
+    margin: 16px 0;
+    line-height: 24px;
+    font-size: 18px;
+}
+
+.text {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.footer-links li a:hover {
+    background-color: #848282;
+}
+
+.footer-links li a {
+    width: 40px;
+    height: 40px;
+    display: block;
+    background-color: #a1a1a1;
+    color: #fff;
+    line-height: 40px;
+    font-size: 18px;
+}
+
+.footer-links li {
+    display: inline-block;
+}
+
+.footer-links {
+    text-align: center;
+    width: 100%
+}
